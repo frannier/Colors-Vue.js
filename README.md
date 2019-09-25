@@ -30,6 +30,7 @@ Para este proyecto se usaron las siguientes librerías (las cuales fueron guarda
 
 ## Estructura
 El proyecto está construido con la siguiente estructura, donde en la carpeta "css" se encontrarán los estilos, en "js" las librerías de Javascript, en "src" el código de la aplicación, en "test" las pruebas unitarias en caso de que existieran y por fuera de las carpetas el index.html:
+
 ![enter image description here](https://i.ibb.co/FY09Pjk/Annotation-2019-09-25-065423.png)
 
 # ¿Cómo ejecutarlo?
