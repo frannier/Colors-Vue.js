@@ -26,6 +26,7 @@ var vue_det = new Vue({
          this.getData();
       },
       copySelectedColor (item) {
+         // Copia el color seleccionado al portapapeles
          this.selectedColor = item;
          this.cardView = false;
          let selectedColorToCopy = document.querySelector('#selected-color')
